@@ -9,9 +9,17 @@
 ## About The Project
 
 <p> 
-Entrega do último projeto do módulo de back-end pela Trybe, que consiste em um site informativo sobre partidas e classificações de futebol!
+Esse é um projeto desenvolvido com React.js de uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada. Essa aplicação será capaz de:
 
-Nesse projeto, foi construído um back-end dockerizado utilizando modelagem de dados através do Sequelize.
+Fazer login;
+Pesquisar por uma banda ou artista;
+Listar os álbuns disponíveis dessa banda ou artista;
+Visualizar as músicas de um álbum selecionado;
+Reproduzir uma prévia das músicas deste álbum;
+Favoritar e desfavoritar músicas;
+Ver a lista de músicas favoritas;
+Ver o perfil da pessoa logada;
+Editar o perfil da pessoa logada;
 </p>
 
 <!-- CONTACT -->
